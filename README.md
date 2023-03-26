@@ -8,15 +8,15 @@
     <a href="https://www.linkedin.com/in/allison-garces/" target="_blank">
         <img src="https://img.shields.io/twitter/url?color=blueviolet&label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fallison-garces%2F" alt="LinkedIn badge">
     </a>
-
-    <a href="https://www.instagram.com/allisoncastano_/" target="_blank">
-        <img src="https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fallisoncastano_%2F" alt="">
-    </a>
-
+   
     <a href="https://github.com/Allisongarces" target="_blank">
         <img src="https://img.shields.io/github/followers/Allisongarces?color=violet&label=Github&style=social" alt="">
     </a>
 </div>
+
+ <a href="https://www.instagram.com/allisoncastano_/" target="_blank">
+        <img src="https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fallisoncastano_%2F" alt="">
+    </a>
 <!--
 **Allisongarces/Allisongarces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
