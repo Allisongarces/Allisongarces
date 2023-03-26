@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://raw.githubusercontent.com/Allisongarces/Allisongarces/main/allison.png" width="80%" style="border-radius: 50px;">
+    <img src="https://raw.githubusercontent.com/Allisongarces/Allisongarces/main/allison.png" width="100%" style="border-radius: 50px;">
     <h1 align="center" style="color:#5400A8">Hola a todos👩🏻‍💻, Soy Allison</h1>
     <p align="center" style="color:#6141AC">Soy una técnica profesional en programación de software y estudiante de ciencia de datos, en constante búsqueda de nuevos desafíos y aprendizajes en el campo tecnológico. <br>Aunque aún no he tenido experiencia laboral en esta industria, estoy entusiasmada por empezar mi carrera y contribuir al crecimiento y la innovación de la misma.<br>Mis habilidades técnicas en programación y mi formación en ciencia de datos me permiten estar preparada para afrontar nuevos desafíos y continuar aprendiendo.<br>Soy una persona apasionada, creativa y comprometida con mi formación y mi futuro en la industria tecnológica.</p>
 </div>
