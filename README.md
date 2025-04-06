@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/Allisongarces/Allisongarces/main/allison.png" width="100%" style="border-radius: 50px;">
+  <img src="[https://raw.githubusercontent.com/Allisongarces/Allisongarces/main/allison.png](https://raw.githubusercontent.com/Allisongarces/Allison.-/refs/heads/main/%20Banner%20para%20linkedin.png?token=GHSAT0AAAAAADBYDVAPXCXVN6HI3WJJM7YYZ7SW7TA)" width="100%" style="border-radius: 50px;">
   <h1 align="center" style="color:#5400A8">Hola a todos 👩🏻‍💻, Soy Allison Garcés</h1>
 
   <p align="center" style="color:#6141AC; max-width:700px; margin:auto">
