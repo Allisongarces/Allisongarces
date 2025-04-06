@@ -35,17 +35,18 @@
 
 ---
 
-### 🌟 Sobre Mí (EN)
+### 🌟 Sobre Mí
 
 ```markdown
-- 🔭 I’m currently working on data analysis projects related to public policy and infrastructure.
-- 🌱 I’m currently learning advanced Natural Language Processing (NLP) and building dashboards with Plotly and Dash.
-- 👯 I’m looking to collaborate on open-source data projects, especially those involving public data, social impact, or education.
-- 🤔 I’m looking for help with best practices in deploying data science models.
-- 💬 Ask me about Python, SQL, data cleaning, exploratory analysis, and dashboards.
-- 📢 How to reach me: [LinkedIn](https://www.linkedin.com/in/allison-garces/), [Fiverr](https://es.fiverr.com/s/BRlyAaz), [GitHub](https://github.com/Allisongarces)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love turning messy data into beautiful insights and visuals 🌈📊
+- 🔭 Actualmente estoy trabajando en proyectos de análisis de datos relacionados con políticas públicas e infraestructura.
+- 🌱 Estoy aprendiendo procesamiento de lenguaje natural (NLP) avanzado y desarrollando dashboards con Plotly y Dash.
+- 👯 Estoy buscando colaborar en proyectos de datos open-source, especialmente aquellos que involucren datos públicos, impacto social o educación.
+- 🤔 Busco ayuda con buenas prácticas para desplegar modelos de ciencia de datos.
+- 💬 Pregúntame sobre Python, SQL, limpieza de datos, análisis exploratorio y dashboards.
+- 📢 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/allison-garces/), [Fiverr](https://es.fiverr.com/s/BRlyAaz), [GitHub](https://github.com/Allisongarces)
+- 😄 Pronombres: ella
+- ⚡ Dato curioso: me encanta convertir datos desordenados en insights y visualizaciones hermosas 🌈📊
+
 ```
 
 ---
