@@ -1,8 +1,25 @@
 <div id="header" align="center">
     <img src="https://raw.githubusercontent.com/Allisongarces/Allisongarces/main/allison.png" width="100%" style="border-radius: 50px;">
-    <h1 align="center" style="color:#5400A8">Hola a todos👩🏻‍💻, Soy Allison</h1>
-    <p align="center" style="color:#6141AC">Soy una técnica profesional en programación de software y estudiante de ciencia de datos, en constante búsqueda de nuevos desafíos y aprendizajes en el campo tecnológico. <br>Aunque aún no he tenido experiencia laboral en esta industria, estoy entusiasmada por empezar mi carrera y contribuir al crecimiento y la innovación de la misma.<br>Mis habilidades técnicas en programación y mi formación en ciencia de datos me permiten estar preparada para afrontar nuevos desafíos y continuar aprendiendo.<br>Soy una persona apasionada, creativa y comprometida con mi formación y mi futuro en la industria tecnológica.</p>
-</div>
+   <h1 align="center" style="color:#5400A8">Hola a todos 👩🏻‍💻, Soy Allison Garcés</h1>
+
+<p align="center" style="color:#6141AC; max-width:700px; margin:auto">
+  🎓 Analista de Datos con Maestría en <strong>Big Data & Data Analytics</strong>, y formación técnica en programación de software.<br><br>
+
+  💼 Tengo experiencia aplicando <strong>Python, SQL, Power BI</strong> y <strong>herramientas estadísticas</strong> para análisis de datos, automatización de reportes y visualización interactiva.<br><br>
+
+  🌍 Actualmente busco oportunidades <strong>remotas o en Europa</strong>, donde pueda aplicar mis habilidades para transformar datos en <strong>insights accionables</strong> y apoyar decisiones estratégicas.<br><br>
+
+  🚀 Soy una persona <strong>apasionada, autodidacta y comprometida</strong> con el aprendizaje continuo. Estoy emocionada por contribuir a proyectos significativos y seguir creciendo como profesional de datos.<br><br>
+
+  ✨ Tecnologías: Python (Pandas, Matplotlib, NLTK), SQL, Power BI, Excel, R, Jupyter, Git, GitHub, NLP.
+</p>
+
+<p align="center">
+  📫 <a href="https://www.linkedin.com/in/allison-garces/">LinkedIn</a> | 
+  💼 <a href="https://es.fiverr.com/s/BRlyAaz">Fiverr</a> | 
+  📁 <a href="https://github.com/Allisongarces">GitHub</a>
+</p>
+
 <div id="badges" align="center" style="color:#5400A8" >
     <h3>Conecta conmigo</h3>
     <hr width="50%">
